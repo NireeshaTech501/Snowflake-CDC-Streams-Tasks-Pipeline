@@ -15,6 +15,8 @@ Fully incremental, cost-efficient pipeline using native Snowflake features
 This approach is suitable for real-time analytics, data warehousing, customer 360, and financial reporting use cases.
 
 
+🏗️ Architecture
+
 
 ![CDC Pipeline Diagram](CDC.png)
 
