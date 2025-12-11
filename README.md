@@ -16,5 +16,6 @@ This approach is suitable for real-time analytics, data warehousing, customer 36
 
 
 
-![CDC Diagram](cdc.png)
+![CDC Pipeline Diagram](CDC.png)
+
 
